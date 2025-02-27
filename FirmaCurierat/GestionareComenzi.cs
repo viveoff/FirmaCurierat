@@ -13,7 +13,7 @@ namespace ProiectClase
         {
             comenzi = new List<ComandaLivrare>();
         }
-
+        // new comment
         // Adaugă o comandă nouă
         public void AdaugaComanda(ComandaLivrare comanda)
         {
