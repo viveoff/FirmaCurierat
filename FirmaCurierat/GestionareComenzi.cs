@@ -14,6 +14,7 @@ namespace ProiectClase
             comenzi = new List<ComandaLivrare>();
         }
         // Adaugă o comandă nouă
+        // fv
         public void AdaugaComanda(ComandaLivrare comanda)
         {
             comenzi.Add(comanda);
